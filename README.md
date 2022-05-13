@@ -9,3 +9,5 @@ I have completed CS50, won the PTC Hack Your Tomorrow Hackathon, and achieved Be
 **Devpost👽:**  https://devpost.com/Ben_ng
 
 **Linkdin👾:**  https://www.linkedin.com/in/benymng/
+
+<a href="https://app.daily.dev/benng"><img src="https://api.daily.dev/devcards/6a9369dab19e4e749bbd44f1a160a02a.png?r=ey5" width="400" alt="Benjamin Ng's Dev Card"/></a>
