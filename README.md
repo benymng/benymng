@@ -15,7 +15,7 @@ I have completed CS50, won the PTC Hack Your Tomorrow Hackathon, and achieved Be
 <a href="https://app.daily.dev/benng" target="_blank">
     <img
       width="256"
-      src="https://api.daily.dev/devcards/6a9369dab19e4e749bbd44f1a160a02a.png?r=ey5"
+      src="https://github.com/benymng/benymng/blob/main/devcard.svg"
     />
   </a>
 </div>
