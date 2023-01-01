@@ -18,4 +18,14 @@ I have completed CS50, won the PTC Hack Your Tomorrow Hackathon, and achieved Be
       src="https://github.com/benymng/benymng/blob/main/devcard.svg"
     />
   </a>
+    
+## Projects
+**Loop:** https://loop.benjaminng.ca/
+    
+**4GAINS:** https://4fun.benjaminng.ca/
+    
+**Infusion Energy:** https://infusion-energy.benjaminng.ca/
+    
+**Portfolio:** https://portfolio.benjaminng.ca/
+    
 </div>
