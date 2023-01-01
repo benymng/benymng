@@ -2,7 +2,7 @@
 
 <div align="left">
 
-My name is Ben and I am a grade 12 student from Calgary, Alberta!
+My name is Ben and I am a software engineering student at the University of Waterloo.
 
 I am primarily interested in full stack web development and data science with a focus on Python, React, ExpressJS, NodeJS, TailwindCSS and C.
 
